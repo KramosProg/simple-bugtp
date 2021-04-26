@@ -1,2 +1,6 @@
 # simple-bugtp
-Simple bug tp , teleport you to "map".
+Simple bug tp, to teleport you in map!
+
+
+
+To support: </Kramos>#0001
